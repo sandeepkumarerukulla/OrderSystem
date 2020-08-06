@@ -1,0 +1,11 @@
+D:\Sandeep\Coding\OrderSystem\Service\Service\bin\Debug\netstandard2.0\Service.deps.json
+D:\Sandeep\Coding\OrderSystem\Service\Service\bin\Debug\netstandard2.0\Service.dll
+D:\Sandeep\Coding\OrderSystem\Service\Service\bin\Debug\netstandard2.0\Service.pdb
+D:\Sandeep\Coding\OrderSystem\Service\Service\bin\Debug\netstandard2.0\Common.dll
+D:\Sandeep\Coding\OrderSystem\Service\Service\bin\Debug\netstandard2.0\Common.pdb
+D:\Sandeep\Coding\OrderSystem\Service\Service\obj\Debug\netstandard2.0\Service.csprojAssemblyReference.cache
+D:\Sandeep\Coding\OrderSystem\Service\Service\obj\Debug\netstandard2.0\Service.AssemblyInfoInputs.cache
+D:\Sandeep\Coding\OrderSystem\Service\Service\obj\Debug\netstandard2.0\Service.AssemblyInfo.cs
+D:\Sandeep\Coding\OrderSystem\Service\Service\obj\Debug\netstandard2.0\Service.csproj.CopyComplete
+D:\Sandeep\Coding\OrderSystem\Service\Service\obj\Debug\netstandard2.0\Service.dll
+D:\Sandeep\Coding\OrderSystem\Service\Service\obj\Debug\netstandard2.0\Service.pdb

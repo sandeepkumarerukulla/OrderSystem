@@ -1,0 +1,11 @@
+D:\Sandeep\Coding\OrderSystem\Business\Business\bin\Debug\netstandard2.0\Business.deps.json
+D:\Sandeep\Coding\OrderSystem\Business\Business\bin\Debug\netstandard2.0\Business.dll
+D:\Sandeep\Coding\OrderSystem\Business\Business\bin\Debug\netstandard2.0\Business.pdb
+D:\Sandeep\Coding\OrderSystem\Business\Business\bin\Debug\netstandard2.0\Common.dll
+D:\Sandeep\Coding\OrderSystem\Business\Business\bin\Debug\netstandard2.0\Common.pdb
+D:\Sandeep\Coding\OrderSystem\Business\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+D:\Sandeep\Coding\OrderSystem\Business\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+D:\Sandeep\Coding\OrderSystem\Business\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+D:\Sandeep\Coding\OrderSystem\Business\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+D:\Sandeep\Coding\OrderSystem\Business\Business\obj\Debug\netstandard2.0\Business.dll
+D:\Sandeep\Coding\OrderSystem\Business\Business\obj\Debug\netstandard2.0\Business.pdb

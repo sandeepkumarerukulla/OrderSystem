@@ -1,0 +1,16 @@
+
+  
+  <br/>
+  <div>
+    <b>Payment For: </b>
+    <mat-form-field appearance="fill">
+      <mat-label>Select</mat-label>
+      <mat-select (ngModelChange)="onChange($event)" [(ngModel)]="selectedType">
+        <mat-option *ngFor="let paymentType of paymentTypes" [value]="paymentType.value">
+          {{paymentType.display}}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+    <p><span><b> Selected food: </b> {{selectedValue}} </span></p>
+  </div>
+
